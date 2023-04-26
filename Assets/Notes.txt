@@ -1,0 +1,24 @@
+﻿# Solve bug
+When group like this
+X X O
+X X O
+O X O
+the one on the bottom is not consumed :S
+
+----------------------
+
+# Score screen with retry
+
+# Music and sounds (Ear candy)
+# Visual effects (Eye candy)
+
+---------------------
+
+# Increase "ticks" required for each growth
+# Increase quality with multiple seeds on a column
+# Show the next single or two pair of blocks
+# Special events (Falling water, or pests)
+# Pesticide block to break nearby pests once grouped
+
+# On end game, destroy all blocks without spawning stuff (visual effect)
+
